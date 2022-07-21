@@ -1,15 +1,22 @@
 PODS:
-  - ActionCategory (0.1.0)
+  - ActionCategory (0.1.0):
+    - CTMediator (~> 46)
+  - CTMediator (46)
 
 DEPENDENCIES:
   - ActionCategory (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
 
 EXTERNAL SOURCES:
   ActionCategory:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ActionCategory: dcb95975d7c35c4b88899dd31d9c971d781b3de5
+  ActionCategory: 649beb5650640adbf505b5ef25224c9264c3dc20
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
 
 PODFILE CHECKSUM: da8bcd3a6f33ec0451f4e44c93ef26c2876d0fe4
 

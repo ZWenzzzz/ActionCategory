@@ -1,7 +1,7 @@
 {
   "name": "ActionCategory",
   "version": "0.1.0",
-  "summary": "A short description of ActionCategory.",
+  "summary": "分类组件",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/ZWenzzzz/ActionCategory",
   "license": {
@@ -9,7 +9,7 @@
     "file": "LICENSE"
   },
   "authors": {
-    "zhangwengcd@163.com": "zhangwengcd@163.com"
+    "Wen": "zhangwengcd@163.com"
   },
   "source": {
     "git": "https://github.com/ZWenzzzz/ActionCategory.git",
@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "ActionCategory/Classes/**/*.{h,m}"
+  "source_files": "ActionCategory/Classes/**/*.{h,m}",
+  "dependencies": {
+    "CTMediator": [
+      "~> 46"
+    ]
+  }
 }
