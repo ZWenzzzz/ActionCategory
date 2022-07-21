@@ -1,0 +1,16 @@
+PODS:
+  - ActionCategory (0.1.0)
+
+DEPENDENCIES:
+  - ActionCategory (from `../`)
+
+EXTERNAL SOURCES:
+  ActionCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ActionCategory: dcb95975d7c35c4b88899dd31d9c971d781b3de5
+
+PODFILE CHECKSUM: da8bcd3a6f33ec0451f4e44c93ef26c2876d0fe4
+
+COCOAPODS: 1.11.2

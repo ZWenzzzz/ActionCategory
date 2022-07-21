@@ -1,0 +1,6 @@
+framework module ActionCategory {
+  umbrella header "ActionCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

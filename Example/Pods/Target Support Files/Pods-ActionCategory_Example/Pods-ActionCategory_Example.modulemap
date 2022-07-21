@@ -1,0 +1,6 @@
+framework module Pods_ActionCategory_Example {
+  umbrella header "Pods-ActionCategory_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
