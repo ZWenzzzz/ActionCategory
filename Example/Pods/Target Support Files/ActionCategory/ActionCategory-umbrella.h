@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "CTMediator+ActionCategory.h"
 
 FOUNDATION_EXPORT double ActionCategoryVersionNumber;
 FOUNDATION_EXPORT const unsigned char ActionCategoryVersionString[];
